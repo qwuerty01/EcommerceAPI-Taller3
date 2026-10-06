@@ -1,0 +1,6 @@
+# TALLER 3 – API DE PRODUCTOS CON CLOUDINARY
+
+**Valentina Garcia Pinzon**
+ID: 000613369
+
+UPB - TEC LAB
